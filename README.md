@@ -1,4 +1,7 @@
-[![MasterHead](https://media.giphy.com/media/GHKlVpc6ThFB9Zk41M/giphy.gif)](https://PranjalSrivastava01.io)
+<div align="center">
+    <img src="https://media.giphy.com/media/GHKlVpc6ThFB9Zk41M/giphy.gif" alt="blabla"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Pranjal Srivastava</h1>
 <h3 align="center">A passionate Mobile App Developer ,Web Developer and UI/UX Designer</h3>
 
