@@ -1,5 +1,5 @@
-<div align="center">
-    <img src="https://media.giphy.com/media/GHKlVpc6ThFB9Zk41M/giphy.gif" alt="blabla"/>
+![image](https://github.com/PranjalSrivastava01/PranjalSrivastava01/assets/96906907/a239c466-fdb1-4f03-8fb5-07488b6ce602)<div align="center">
+    <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="blabla"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Pranjal Srivastava</h1>
