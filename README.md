@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Shopping app**
+- 🔭 I’m currently working on **Finance react app**
 
-- 🌱 I’m currently learning **UI/UX Design**
+- 🌱 I’m currently learning **dsa**
 
 - 🤝 I’m looking for help with **App Development**
 
