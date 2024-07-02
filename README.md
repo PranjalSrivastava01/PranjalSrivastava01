@@ -16,8 +16,6 @@
 
 - 🤝 I’m looking for help with **App Development**
 
-- 👨‍💻 All of my projects are available at [https://pranjalsrivastava01.github.io/pranjalsportfolio05.github.io/](https://tinyurl.com/2p8e2vvp)
-
 - 💬 Ask me about **App Development ,C++,UI/UX.**
 
 - 📫 How to reach me **pranjals0105@gmail.com**
